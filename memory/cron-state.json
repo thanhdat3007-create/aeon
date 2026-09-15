@@ -1,6 +1,10 @@
 {
   "heartbeat": {
-    "last_dispatch": "2026-07-02T21:23:42Z",
+    "last_dispatch": "2026-09-15T12:14:42Z",
+    "last_status": "dispatched"
+  },
+  "chain:dev-loop": {
+    "last_dispatch": "2026-09-15T12:14:42Z",
     "last_status": "dispatched"
   }
 }
